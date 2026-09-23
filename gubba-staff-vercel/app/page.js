@@ -83,7 +83,6 @@ export default function StaffManager() {
     <div style={{ maxWidth: 700, margin: "40px auto", padding: 20 }}>
       <h1 style={{ textAlign: "center", letterSpacing: 2 }}>{title}</h1>
       <p style={{ textAlign: "center", color: "#888", marginBottom: 30 }}>
-        Changes appear live in the C# client
       </p>
 
       {/* Add form */}
